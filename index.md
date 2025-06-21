@@ -1,9 +1,67 @@
-
 ---
 layout: home
 title: Welcome to the IMPACT Lab
 ---
 
-The **IMPACT Lab** focuses on cutting-edge research in intelligent system electronics, modulation optimization, control of multi-active bridge (MAB) converters, and power electronics. Our work blends AI, system design, and power infrastructure innovation.
+<!-- Banner Image (Optional, add your image in /assets/img/lab-banner.png) -->
+<p align="center">
+  <img src="/assets/img/lab-banner.png" alt="IMPACT Lab Banner" width="80%" style="border-radius: 12px;">
+</p>
 
-Explore our work, meet our team, and discover how we're shaping the future of intelligent power systems.
+# 🔬 Welcome to the **IMPACT Lab**
+
+> **I**ntelligent **M**odulation, **P**ower **A**rchitecture & **C**ontrol **T**echnologies
+
+The **IMPACT Lab** at [Your University Name] is redefining how power systems interact with AI. Our research spans:
+- 🌩️ Power Electronics & Multi-Active Bridge (MAB) Converter Design  
+- 🤖 AI-Driven System Control and Embedded Intelligence  
+- 🔁 Model Switching and Modulation Optimization  
+- ⚙️ Intelligent Switching Controllers & Hardware Prototyping
+
+---
+
+## 🚀 Mission
+
+To lead innovation in AI-powered power systems and embedded control by pushing the boundaries of smart converters and intelligent modulation techniques.
+
+---
+
+## 🧠 Research Highlights
+
+🎯 **Optimized AI Switching for MABs**  
+💡 **AI-Based Predictive Control Algorithms**  
+⚡ **High-Frequency Converter Design for Industry 4.0**  
+🛠️ **Embedded Electronics for Autonomous Power Infrastructure**
+
+---
+
+## 🧑‍🔬 Join the Lab
+
+We're always looking for:
+- Undergraduate/Graduate students
+- PhD collaborators
+- Visiting researchers
+
+📬 **[Email us](mailto:youremail@example.com)** to get started.  
+Or fill out our [**Join Us Form ›**](/join-us/)
+
+---
+
+<p align="center">
+  <a href="/join-us/" style="padding: 12px 20px; background-color: #007ACC; color: white; text-decoration: none; border-radius: 6px;">
+    👉 Click Here to Join the IMPACT Lab
+  </a>
+</p>
+
+---
+
+## 📍 Contact Us
+
+**Lab Director**: Dr. [Your Name]  
+**Email**: [youremail@example.com](mailto:youremail@example.com)  
+**Department of Electrical Engineering**  
+[Your University Name], [City, Country]
+
+---
+
+_This site is hosted with 💙 by [GitHub Pages](https://pages.github.com)_
